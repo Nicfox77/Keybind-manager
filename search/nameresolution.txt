@@ -1,0 +1,3 @@
+PUBG=GameUserSettings.ini
+Apex Legends=videoconfig.txt
+CS:GO=video.txt

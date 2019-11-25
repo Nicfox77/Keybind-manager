@@ -1,0 +1,3 @@
+Apex Legends=Respawn\Apex
+PUBG=TslGame\Saved\Config\WindowsNoEditor
+CS:GO=730\local\cfg

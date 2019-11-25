@@ -1,0 +1,33 @@
+ADS: ActionName="Targeting"
+Crouch: ActionName="ToggleCrouch"
+Fire Mode: ActionName="ToggleFiringMode"
+Grenade: ActionName="Weapon_5"
+Heal: ActionName="UseBandage"
+Interact: ActionName="Interact"
+Inventory: ActionName="ToggleInventory"
+Jump: ActionName="Jump"
+Map: ActionName="ToggleMap"
+Move Backward: AxisName="MoveForward",Scale=-1.000000
+Move Forward: AxisName="MoveForward",Scale=1.000000
+Move Left: AxisName="MoveRight",Scale=-1.000000
+Move Right: AxisName="MoveRight",Scale=1.000000
+Push-to-Talk: ActionName="PushToTalk"
+Reload: ActionName="Reload"
+Shoot: ActionName="Fire"
+Sprint: ActionName="Sprint"
+Weapon 1: ActionName="Weapon_1"
+Weapon 2: ActionName="Weapon_2"
+Weapon 3: ActionName="Weapon_3"
+Weapon 4: ActionName="Weapon_4"
+Stow Weapons: ActionName="Unarm"
+Next Weapon:+weaponcycle
+Previous Weapon:+weaponcycle
+ActionName="VehicleBoost": ActionName="VehicleBoost"
+vmoveback: AxisName="VehicleMoveForward",Scale=-1.000000
+vmoveforward: AxisName="VehicleMoveForward",Scale=1.000000
+vmoveright: AxisName="VehicleMoveRight",Scale=1.000000
+vmoveleft: AxisName="VehicleMoveRight",Scale=-1.000000
+FOV: FpsCameraFov=
+RESH: ResolutionSizeY=
+RESW: ResolutionSizeX=
+SENS: SensitiveName="Normal",Sensitivity=

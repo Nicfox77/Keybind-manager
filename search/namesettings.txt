@@ -1,0 +1,3 @@
+Apex Legends=settings.cfg
+PUBG=GameUserSettings.ini
+CS:GO=config.cfg

@@ -1,0 +1,31 @@
+ADS: "+toggle_zoom" 0
+changegrenade: "+strafe" 0
+Chat: "say_team" 0
+Crouch: "+duck" 0
+Fire Mode: "+scriptcommand3" 0
+Grenade: "weaponSelectOrdnance" 0
+Heal: "+scriptCommand4" 0
+Interact: "+use; +use_long" 0
+Inventory: "toggle_inventory" 0
+Jump: "+jump" 0
+Map: "toggle_map" 0
+Melee: "+melee" 0
+Move Backward: "+backward" 0
+Move Forward: "+forward" 0
+Move Left: "+moveleft" 0
+Move Right: "+moveright" 0
+Ping: "+ping" 0
+Push-to-Talk: "+pushtotalk" 0
+Reload: "+reload" 0
+Shoot: "+attack" 0
+Sprint: "+speed" 0
+togglecrouch: "+toggle_duck" 0
+Weapon 1: "weaponSelectPrimary0" 0
+Weapon 2: "weaponSelectPrimary1" 0
+Next Weapon: "+weaponcycle" 0
+Previous Weapon: "+weaponcycle" 0
+Stow Weapons: "weaponSelectPrimary2" 0
+FOV: cl_fovScale
+RESH: "setting.defaultresheight"
+RESW: "setting.defaultres"
+SENS: mouse_sensitivity

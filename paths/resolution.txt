@@ -1,0 +1,4 @@
+Apex Legends=C:\Users\nicfo\Saved Games\Respawn\Apex\local\videoconfig.txt
+PUBG=C:\Users\nicfo\AppData\Local\TslGame\Saved\Config\WindowsNoEditor\GameUserSettings.ini
+Apex Legends=C:\Users\nicfo\Saved Games\Respawn\Apex\local\videoconfig.txt
+PUBG=C:\Users\nicfo\AppData\Local\TslGame\Saved\Config\WindowsNoEditor\GameUserSettings.ini
