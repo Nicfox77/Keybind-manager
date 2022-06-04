@@ -1,6 +1,4 @@
-# © Nicholai Fox Martinsen 2019.
-# This computer code is licensed for use solely by the person to whom it is
-# delivered and  may not be transferred, duplicated or reverse engineered, or decompiled.
+# © Nicholai Fox Martinsen
 
 import getpass
 
